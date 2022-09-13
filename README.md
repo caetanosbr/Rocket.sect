@@ -1,4 +1,4 @@
-![Rocketsect](imagens/rocketsect.png.png)
+![Rocketsect](imagens/rocketsect.png)
 
 #
 
