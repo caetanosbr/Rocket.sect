@@ -19,6 +19,6 @@
 - CSS
 
 
-## Deploy
+## Project
 
 Você pode conferir o projeto rodando [aqui](https://prismatic-douhua-f5f79e.netlify.app).
